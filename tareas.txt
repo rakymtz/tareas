@@ -1,1 +1,2 @@
 1- aprender git 
+2. seguir con la otra tarea
